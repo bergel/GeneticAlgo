@@ -2,7 +2,7 @@ SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
       #configuration : 'GeneticAlgo',
-      #repository : 'http://smalltalkhub.com/mc/abergel/GeneticAlgo/main/',
+      #repository : 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo50/main/',
       #load : [ 'all' ],
       #platforms : [ #pharo ],
       #version: #development
